@@ -3982,5 +3982,21 @@
   "SIDS":false,
   "Development classification":"",
   "Income group":""
+ },
+ {
+  "Alpha-3 code-1":"WLD",
+  "Country or Area":"World",
+  "Alpha-2 code":"",
+  "Numeric code":"",
+  "Latitude (average)":"",
+  "Longitude (average)":"",
+  "Group 1":"",
+  "Group 2":"",
+  "Group 3":"",
+  "LDC":false,
+  "LLDC":false,
+  "SIDS":false,
+  "Development classification":"",
+  "Income group":""
  }
 ]
